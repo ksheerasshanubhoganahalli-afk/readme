@@ -33,12 +33,14 @@ const ksheera = {
 Results-driven **BCA graduate** with a strong academic record **(SGPA 8.79)** and hands-on experience building full-stack web applications. Proficient in **PHP, Python, JavaScript, and MongoDB** with expertise in creating scalable, user-centric solutions. Passionate about clean code, database optimization, and leveraging technology to solve real-world problems. Actively seeking entry-level opportunities to contribute innovative solutions and grow as a developer.
 
 <div align="center">
+
 [![Email](https://img.shields.io/badge/ksheerasshanubhoganahalli@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ksheerasshanubhoganahalli@gmail.com)
 [![Phone](https://img.shields.io/badge/%2B91--7259297419-25D366?style=flat-square&logo=phone&logoColor=white)](tel:+917259297419)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksheera-s-shanubhoganahalli/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ksheerasshanubhoganahalli-afk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=flat-square&logo=web&logoColor=white)](#)
 [![Views](https://komarev.com/ghpvc/?username=ksheerasshanubhoganahalli-afk&label=Visitors&color=06b6d4&style=flat-square)](https://github.com/ksheerasshanubhoganahalli-afk)
+
 </div>
 
 ---
