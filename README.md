@@ -1,211 +1,127 @@
-<div align="center">
-# 🚀 Welcome to My Digital Universe
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=06B6D4&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+%F0%9F%91%8B+I'm+Ksheera+S.+Shanubhogana+Halli;BCA+Graduate+%26+Full+Stack+Developer;Passionate+about+Building+Web+Solutions;Turning+Ideas+into+Code+%F0%9F%92%BB;Available+for+Entry-Level+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
-</div>
 ---
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+title: "Ksheera S. Shanubhogana Halli – Full‑Stack Developer | Fresher"
 ---
-## 🎯 About Me
-<table>
-<tr>
-<td width="60%">
-### 👨‍💻 Who Am I?
-```javascript
-const ksheera = {
-    name: "Ksheera S Shanubhogana Halli",
-    location: "Hosdurga, Chitradurga, Karnataka",
-    education: "BCA Graduate (SGPA: 8.79)",
-    role: "Full-Stack Developer (Fresher)",
-    currentFocus: "Building scalable web applications",
-    askMeAbout: ["PHP", "Python", "JavaScript", "MongoDB"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
-### 💡 What Drives Me?
-- 🚀 Transforming complex problems into elegant solutions
-- 🌱 Continuous learning and skill enhancement
-- 🎨 Creating user-centric web experiences
-- 💻 Writing clean, efficient, and maintainable code
-- 🤝 Collaborating and growing with the developer community
-</td>
-<td width="40%">
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
-</div>
-### 📊 Quick Stats
-- 🎓 **BCA SGPA**: 8.79
-- 📍 **Location**: Karnataka, India
-- 💼 **Status**: Open to Work
-- 🎯 **Goal**: Full-Stack Developer
-- ⚡ **Fun**: Solving coding puzzles
-</td>
-</tr>
-</table>
----
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
----
-## 🛠️ Tech Arsenal
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,javascript,java,c&theme=dark" alt="Programming Languages" />
-</div>
-### 🌐 Frontend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend" />
-</div>
-### 🔧 Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend & Database" />
-</div>
-### 🛠️ Tools & Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman&theme=dark" alt="Tools" />
-</div>
----
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
----
-## 📈 GitHub Analytics
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ksheerasshanubhoganahalli-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheerasshanubhoganahalli-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksheerasshanubhoganahalli-afk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ksheerasshanubhoganahalli-afk&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
----
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
----
-## 🚀 Featured Projects
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🛍️ Online Cloth Rental System</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        </p>
-        <p align="center">
-          Full-stack rental platform with <strong>40% improved browsing efficiency</strong> and <strong>70% reduced manual inventory management</strong>.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/⭐_Featured_Project-FFD700?style=flat-square" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📝 Complaint Registration System</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        </p>
-        <p align="center">
-          Digitized complaint tracking system with <strong>responsive UI</strong> and <strong>admin dashboard</strong> for efficient resolution.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/⭐_Featured_Project-FFD700?style=flat-square" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
----
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
----
-## 🎓 Education Journey
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🎓 Bachelor of Computer Applications</h3>
-        <p><strong>Sri Madh Rambhapuri Arts and Commerce College</strong></p>
-        <p>Shankaragatta</p>
-        <p><img src="https://img.shields.io/badge/SGPA-8.79-06B6D4?style=for-the-badge" /></p>
-        <p>Aug 2022 - March 2025</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>📚 Pre-University (PCMB)</h3>
-        <p><strong>S Nijalingappa Independent PU College</strong></p>
-        <p>Hosdurga</p>
-        <p><img src="https://img.shields.io/badge/Percentage-60.5%25-06B6D4?style=for-the-badge" /></p>
-        <p>June 2020 - May 2022</p>
-      </td>
-    </tr>
-  </table>
-</div>
----
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
----
-## 🌐 Let's Connect!
-<div align="center">
-  <a href="mailto:ksheerasshanubhoganahalli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  <!-- ==== Hero Section ==== -->
+  <img src="https://readme-emoji.ink?emoji=🚀&label=Welcome&color=06B6D4&text=Ksheera%20S.%20Shanubhogana%20Halli" alt="Ksheera S. Shanubhogana Halli" style="margin:0 0 10px; width: 200px;"/>
+
+  <!-- ==== Typing Animation ==== -->
+  <div>
+    <script src="https://cdn.jsdelivr.net/npm/readme-typing-svg@1.0.0/dist/index.js"></script>
+    <svg id="typing-svg" width="500" height="100"></svg>
+    <script>
+      new TypingSVG({
+        el: '#typing-svg',
+        lines: [
+          'Hey there! 👋',
+          'I’m Ksheera S. Shanubhogana Halli',
+          'BCA Graduate – Full‑Stack Developer (Fresh Out of College)',
+          'Passionate about building modern web solutions'
+        ],
+        font: 'Fira Code',
+        size: 32,
+        color: '#06B6D4',
+        callback: () => {
+          document.querySelector('#typing-svg').style.display = 'none';
+          // fade in resume button
+          const btn = document.createElement('button');
+          btn.textContent = '📄 View My Resume';
+          btn.className = 'resume-btn';
+          btn.href = 'https://github.com/ksheerasshanubhoganahalli-afk/resume.pdf';
+          btn.target = '_blank';
+          document.body.appendChild(btn);
+        }
+      });
+    </script>
+  </div>
+
+  <!-- ==== Profile Views Badge ==== -->
+  <a href="https://komarev.com/ghpvc/?username=ksheerasshanubhoganahalli-afk">
+    <img src="https://komarev.com/ghpvc/?username=ksheerasshanubhoganahalli-afk&label=Profile%20Views&color=06B6D4&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://www.linkedin.com/in/ksheera-s-shanubhoganahalli/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <!-- ==== GitHub Activity Graph ==== -->
+  <a href="https://github.com/ksheerasshanubhoganahalli-afk">
+    <img src="https://github-activity.vercel.app/api?username=ksheerasshanubhoganahalli-afk&theme=dark" alt="GitHub Activity"/>
+  </a>
+
+  <!-- ==== GitHub Streak ==== -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ksheerasshanubhoganahalli-afk&theme=dark&hide_border=true" alt="GitHub Streak"/>
+
+  <!-- ==== Tech Stack ==== -->
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <div align="center">
+    <a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/></a>
+    <a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></a>
+    <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/></a>
+    <a href="https://openjdk.java.net" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/></a>
+    <a href="https://www.iso.org/isoiec.html" target="_blank"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/></a>
+    <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/></a>
+    <a href="https://mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/></a>
+    <a href="https://dev.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"/></a>
+    <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white"/></a>
+    <a href="https://html5.org" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/></a>
+    <a href="https://css-tricks.com" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/></a>
+    <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/></a>
+  </div>
+
+  <!-- ==== Connect with Me ==== -->
+  <h3>🌐 Connect with me</h3>
+  <p align="center">
+    <a href="https://github.com/ksheerasshanubhoganahalli-afk"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ksheera-s-shanubhoganahalli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:ksheerasshanubhoganahalli@ gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+  </p>
+
+  <!-- ==== Profile Summary ==== -->
+  <h3>👨‍💻 About Me</h3>
+  <p align="center">
+    Enthusiastic BCA Graduate (SGPA 8.79) from Hosdurga, Chitradurga.<br>
+    Strong foundation in **PHP, Python, JavaScript, and MongoDB**.<br>
+    Passionate about building scalable web applications and solving real‑world problems through code.<br>
+    Currently seeking **entry‑level opportunities** to contribute fresh perspectives and grow as a developer.<br>
+    🎯 <strong>Key Strengths:</strong> Full‑stack development, rapid prototyping, problem‑solving, and teamwork.
+  </p>
+
+  <!-- ==== GitHub Stats ==== -->
+  <h3>📊 GitHub Stats</h3>
+  <a href="https://github.com/ksheerasshanubhoganahalli-afk">
+    <img src="https://github-readme-stats.vercel.app/api?username=ksheerasshanubhoganahalli-afk&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/ksheerasshanubhoganahalli-afk">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheerasshanubhoganahalli-afk&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
   </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Hire%20Me-FF6B6B?style=for-the-badge&logo=hackerearth&logoColor=white" alt="Hire Me" />
-</div>
----
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
----
-## 💭 Quote of the Day
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
----
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
----
-## 📊 Profile Analytics
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ksheerasshanubhoganahalli-afk&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/github/followers/ksheerasshanubhoganahalli-afk?label=Followers&style=for-the-badge&color=06b6d4" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ksheerasshanubhoganahalli-afk?label=Stars&style=for-the-badge&color=06b6d4" alt="Stars" />
-</div>
----
-<div align="center">
-### 🌟 Thanks for visiting! Let's build something amazing together! 🌟
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr2ypvI/giphy.gif" width="60" alt="Wave">
-**Made with ❤️ by Ksheera S Shanubhogana Halli**
-</div>
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=100&section=footer" alt="Footer Wave" />
+
+  <!-- ==== Featured Projects ==== -->
+  <h3>🚀 Featured Projects</h3>
+  <ul>
+    <li><strong>Online Cloth Rental System (PHP)</strong> – Full‑stack application with advanced filtering, secure booking, and admin dashboard.</li>
+    <li><strong>Online Complaint Registration System (MongoDB)</strong> – Responsive UI for lodging & tracking complaints, integrated with admin panel.</li>
+    <li><strong>Personal Portfolio Website</strong> – React + Tailwind CSS, live on Vercel (link below).</li>
+  </ul>
+
+  <!-- ==== Education ==== -->
+  <h3>🎓 Education</h3>
+  <p align="center">
+    **Bachelor of Computer Applications (BCA)** – Sri Madh Rambhapuri Arts & Commerce College, Shankaragatta.<br>
+    August 2022 – March 2025 | SGPA 8.79 | Course Highlights: OOPS, DBMS, Computer Networks, Advanced PHP.
+  </p>
+
+  <!-- ==== Dynamic Quote ==== -->
+  <h3>🗣️ Random Quote</h3>
+  <blockquote>
+    <p><em>“The only way to do great work is to love what you do.”</em> – Steve Jobs</p>
+  </blockquote>
+  <p>
+    <small>(Generated via <a href="https://github.com/mrunmeet/quote-api">Quote API</a>)</small>
+  </p>
+
+  <!-- ==== Footer ==== -->
+  <p align="center">
+    <a href="https://github.com/ksheerasshanubhoganahalli-afk/resume.pdf" class="btn"><strong>Download My Resume (PDF)</strong></a>
+    <br>
+    <img src="https://img.shields.io/badge/Open%20to%20Work-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/>
+  </p>
 </div>
