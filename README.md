@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=php+artisan+serve+--host%3D127.0.0.1;npm+run+dev;python+app.py;Code+That+Matters!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=php+artisan+serve+--host%3D127.0.0.1;npm+start+--+local+dev;mysql+-u+root+-p;python3+-m+http.server;let+code+%3D+passion;Full-Stack+Developer+%F0%9F%9A%80)](https://github.com/ksheerasshanubhoganahalli-afk)
 
 </div>
 
@@ -30,7 +30,7 @@ const ksheera = {
 
 ## 📋 PROFESSIONAL SUMMARY
 
-Results-driven **BCA graduate** with a strong academic record **(SGPA 8.79)** and hands-on experience building full-stack web applications. Proficient in **PHP, Python, JavaScript, and MongoDB** with a proven track record of creating scalable, user-centric solutions. Eager to contribute technical expertise and innovative thinking to challenging projects.
+Results-driven **BCA graduate** with a strong academic record **(SGPA 8.79)** and hands-on experience building full-stack web applications. Proficient in **PHP, Python, JavaScript, and MongoDB** with proven ability to design scalable architectures, optimize database performance, and deliver user-centric solutions. Seeking entry-level full-stack development roles to contribute to innovative projects.
 
 <div align="center">
 
@@ -50,8 +50,8 @@ Results-driven **BCA graduate** with a strong academic record **(SGPA 8.79)** an
 | Domain | Technologies |
 |:---|:---|
 | **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
-| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Responsive Design](https://img.shields.io/badge/Responsive-06B6D4?style=flat-square&logo=web&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=database&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | **Core Subjects** | `Object-Oriented Programming` `DBMS` `Computer Networks` `Data Structures` `Web Development` `Software Engineering` |
 | **Soft Skills** | `Problem-Solving` `Communication` `Teamwork` `Creativity` `Adaptability` `Attention to Detail` |
@@ -102,7 +102,7 @@ Results-driven **BCA graduate** with a strong academic record **(SGPA 8.79)** an
 ## 🎓 EDUCATION
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
 │  🎓 BACHELOR OF COMPUTER APPLICATIONS (BCA)                      │
 │     SGPA: 8.79 / 10.0  ⭐ Outstanding Performance               │
@@ -121,7 +121,7 @@ Results-driven **BCA graduate** with a strong academic record **(SGPA 8.79)** an
 │     • OOPS Concepts        • Data Structures & Algorithms        │
 │     • Software Engineering • Computer Networks                   │
 │                                                                  │
-└─────────────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -184,17 +184,17 @@ Results-driven **BCA graduate** with a strong academic record **(SGPA 8.79)** an
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ksheerasshanubhoganahalli-afk&show_icons=true&hide_border=true&title_color=06B6D4&text_color=c9d1d9&icon_color=06B6D4&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ksheerasshanubhoganahalli-afk&show_icons=true&hide_border=true&title_color=06B6D4&text_color=c9d1d9&icon_color=06B6D4&bg_color=0d1117&count_private=true&theme=dark" alt="GitHub Stats" width="100%" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheerasshanubhoganahalli-afk&layout=compact&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheerasshanubhoganahalli-afk&layout=compact&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&langs_count=8&theme=dark" alt="Top Languages" width="100%" />
 </td>
 </tr>
 </table>
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ksheerasshanubhoganahalli-afk&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=06B6D4" alt="Contribution Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ksheerasshanubhoganahalli-afk&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=06B6D4&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Contribution Streak" width="100%" />
 
 ### 🏆 Achievements
 
