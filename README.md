@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:6366f1&height=200&section=header&text=Ksheera%20S%20Shanubhogana%20Halli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
+
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=php+artisan+serve+--host%3D127.0.0.1;Building+Full-Stack+Applications;Exploring+Database+Optimization;Writing+Clean+Architecture+Code;Problem-Solving+%7C+Learning+%7C+Growing)](https://github.com/ksheerasshanubhoganahalli-afk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=php+artisan+serve+--host%3D127.0.0.1;Full-Stack+Web+Developer;Database+Enthusiast;Clean+Code+Advocate;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -8,7 +9,7 @@
 ```javascript
 const ksheera = {
     fullName    : "Ksheera S Shanubhogana Halli",
-    location    : "Hosdurga, Chitradurga, Karnataka",
+    location    : "Hosdurga, Chitradurga, Karnataka 🇮🇳",
     degree      : "BCA (Bachelor of Computer Applications)",
     sgpa        : 8.79,
     status      : "Fresher — Actively seeking entry-level roles",
@@ -25,60 +26,68 @@ const ksheera = {
 
 ---
 
-### PROFESSIONAL SUMMARY
+## 📋 PROFESSIONAL SUMMARY
 
-Results-driven BCA graduate with a strong academic record **(SGPA 8.79)** and hands-on experience building full-stack web applications. Proficient in **PHP, Python, JavaScript, and MongoDB** with a demonstrated ability to design scalable solutions and optimize database performance. Passionate about clean architecture and creating impactful digital experiences.
+Results-driven **BCA graduate** with a strong academic record **(SGPA 8.79)** and hands-on experience building full-stack web applications. Proficient in **PHP, Python, JavaScript, and MongoDB** with expertise in creating scalable, user-centric solutions. Passionate about clean code, database optimization, and leveraging technology to solve real-world problems. Actively seeking entry-level opportunities to contribute innovative solutions and grow as a developer.
 
 <div align="center">
 [![Email](https://img.shields.io/badge/ksheerasshanubhoganahalli@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ksheerasshanubhoganahalli@gmail.com)
 [![Phone](https://img.shields.io/badge/%2B91--7259297419-25D366?style=flat-square&logo=phone&logoColor=white)](tel:+917259297419)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksheera-s-shanubhoganahalli/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ksheerasshanubhoganahalli-afk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=flat-square&logo=web&logoColor=white)](#)
 [![Views](https://komarev.com/ghpvc/?username=ksheerasshanubhoganahalli-afk&label=Visitors&color=06b6d4&style=flat-square)](https://github.com/ksheerasshanubhoganahalli-afk)
 </div>
 
 ---
 
-### TECHNICAL SKILLS
+## 💻 TECHNICAL SKILLS
 
 | Domain | Technologies |
 |:---|:---|
-| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![AJAX](https://img.shields.io/badge/AJAX-0891B2?style=flat-square&logoColor=white) |
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
+| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7231?style=flat-square&logo=xampp&logoColor=white) |
-| **Core Subjects** | `Object-Oriented Programming` `DBMS` `Computer Networks` `Data Structures` `Web Development` |
-| **Soft Skills** | `Problem-Solving` `Communication` `Teamwork` `Creativity` `Adaptability` |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D70015?style=flat-square&logo=apache&logoColor=white) |
+| **Core Subjects** | `Object-Oriented Programming` `DBMS` `Computer Networks` `Data Structures` `Web Development` `Software Engineering` |
+| **Soft Skills** | `Problem-Solving` `Communication` `Teamwork` `Creativity` `Adaptability` `Attention to Detail` |
 
 ---
 
-### PROJECTS
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🛍️ Online Cloth Rental System
-`PHP` `JavaScript` `HTML` `CSS` `MongoDB`
+### 🛍️ Online Cloth Rental System
+**Tech Stack:** `PHP` `JavaScript` `HTML` `CSS` `MongoDB`
 
-- Engineered a full-stack e-commerce rental platform enabling seamless clothing rentals for users
-- Implemented responsive design with advanced catalog filters, **improving browsing efficiency by 40%**
-- Automated rental booking and return tracking, **reducing manual inventory efforts by 70%**
+**Key Highlights:**
+- Engineered a full-stack e-commerce rental platform enabling seamless clothing rentals
+- Implemented responsive design with advanced catalog filters, **↑40% browsing efficiency**
+- Automated rental booking and return tracking, **↓70% manual inventory efforts**
 - Integrated secure user authentication and payment gateway (demo stage)
-- Built an admin dashboard for inventory control and rental approvals
-- Promoted sustainability in fashion through clothing reuse
+- Built comprehensive admin dashboard for inventory control and rental approvals
+- Promoted sustainability in fashion through clothing reuse initiative
+
+**Impact:** Reduced operational overhead & improved user experience significantly
 
 </td>
 <td width="50%">
 
-#### 📋 Online Complaint Registration System
-`HTML` `CSS` `Vanilla JavaScript` `MongoDB`
+### 📋 Online Complaint Registration System
+**Tech Stack:** `HTML` `CSS` `Vanilla JavaScript` `MongoDB`
 
-- Designed a web application to digitize complaint lodging and tracking workflows
-- Built a responsive user interface for accessible complaint submission across devices
-- Developed an admin dashboard for centralized complaint resolution and status tracking
+**Key Highlights:**
+- Designed web application to digitize complaint lodging and tracking workflows
+- Built responsive UI for accessible complaint submission across all devices
+- Developed admin dashboard for centralized complaint resolution & status tracking
 - Reduced manual handling time and improved operational transparency
 - Implemented document-based persistence with MongoDB for reliable data storage
+- Real-time notification system for complaint updates
+
+**Impact:** Streamlined complaint management & enhanced user satisfaction
 
 </td>
 </tr>
@@ -86,16 +95,16 @@ Results-driven BCA graduate with a strong academic record **(SGPA 8.79)** and ha
 
 ---
 
-### EDUCATION
+## 🎓 EDUCATION
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
 │  🎓 BACHELOR OF COMPUTER APPLICATIONS (BCA)                      │
-│     SGPA: 8.79                                                   │
+│     SGPA: 8.79 / 10.0  ⭐ Outstanding Performance               │
 │     Sri Madh Rambhapuri Arts and Commerce College                │
 │     Shankaragatta, Karnataka                                     │
-│     August 2022 — March 2025                                      ���
+│     August 2022 — March 2025                                      │
 │                                                                  │
 │  📚 PRE-UNIVERSITY COURSE (PCMB)                                 │
 │     Percentage: 60.5%                                            │
@@ -103,102 +112,166 @@ Results-driven BCA graduate with a strong academic record **(SGPA 8.79)** and ha
 │     Hosdurga, Karnataka                                          │
 │     June 2020 — May 2022                                          │
 │                                                                  │
+│  📖 RELEVANT COURSEWORK                                           │
+│     • Web Development      • Database Management Systems          │
+│     • OOPS Concepts        • Data Structures & Algorithms        │
+│     • Software Engineering • Computer Networks                   │
+│                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### INTERESTS
+## 🎯 INTERESTS & HOBBIES
 
 | Interest | Description |
 |:---|:---|
-| 🚀 | [Learning New Technologies](#) - Staying updated with industry trends |
-| 💻 | [Solving Coding Problems](#) - Competitive programming & algorithm challenges |
-| 📖 | [Reading Technical Books](#) - Deepening knowledge in software engineering |
-| 🛠️ | [Building Side Projects](#) - Creating practical applications and solutions |
+| 🚀 | **Learning New Technologies** - Staying updated with industry trends and emerging frameworks |
+| 💻 | **Solving Coding Problems** - Competitive programming & algorithm challenges on platforms |
+| 📖 | **Reading Technical Books** - Deepening knowledge in software engineering & architecture |
+| 🛠️ | **Building Side Projects** - Creating practical applications and solutions for real problems |
+| 🌐 | **Open Source Contribution** - Contributing to community-driven projects and initiatives |
+| ⚡ | **Performance Optimization** - Optimizing code and databases for maximum efficiency |
 
 ---
 
-### RESOURCES & LINKS
+## 📚 RESOURCES & QUICK LINKS
 
 <div align="center">
 
-#### 🔗 **Professional Networks**
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ksheera-s-shanubhoganahalli/)
-- 🐙 [GitHub Profile](https://github.com/ksheerasshanubhoganahalli-afk)
-- 📧 [Email Me](mailto:ksheerasshanubhoganahalli@gmail.com)
-- 📱 [Call Me](tel:+917259297419)
+### 🔗 **Professional Networks**
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ksheera-s-shanubhoganahalli/)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge)](https://github.com/ksheerasshanubhoganahalli-afk)
+[![Email](https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge)](mailto:ksheerasshanubhoganahalli@gmail.com)
+[![Phone](https://img.shields.io/badge/📱%20Call%20Me-25D366?style=for-the-badge)](tel:+917259297419)
 
-#### 🎯 **Learning Resources**
+### 🏆 **GitHub Highlights**
 - 🏆 [GitHub Achievements](https://github.com/ksheerasshanubhoganahalli-afk?tab=achievements)
 - 📊 [GitHub Statistics](https://github.com/ksheerasshanubhoganahalli-afk?tab=repositories)
 - 🔥 [Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksheerasshanubhoganahalli-afk)
+- ⭐ [Most Starred Repos](https://github.com/ksheerasshanubhoganahalli-afk?tab=stars)
 
-#### 🛠️ **Development Tools**
-- [Git Documentation](https://git-scm.com/doc)
-- [PHP Official Docs](https://www.php.net/docs.php)
-- [MongoDB Documentation](https://docs.mongodb.com/)
+### 🛠️ **Development Documentation**
+- [Git & GitHub Mastery](https://git-scm.com/doc)
+- [PHP Official Documentation](https://www.php.net/docs.php)
+- [MongoDB Complete Guide](https://docs.mongodb.com/)
 - [JavaScript MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-- [Python Official Documentation](https://docs.python.org/3/)
+- [Python Official Docs](https://docs.python.org/3/)
+- [MySQL Reference Manual](https://dev.mysql.com/doc/)
 
-#### 📚 **Knowledge Base**
-- [Stack Overflow](https://stackoverflow.com/)
-- [GitHub Docs](https://docs.github.com)
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [Dev.to](https://dev.to/)
+### 📚 **Community & Learning**
+- [Stack Overflow](https://stackoverflow.com/) - Q&A Community
+- [GitHub Docs](https://docs.github.com) - GitHub Learning
+- [MDN Web Docs](https://developer.mozilla.org/) - Web Standards
+- [Dev.to](https://dev.to/) - Developer Articles
+- [CSS-Tricks](https://css-tricks.com/) - Frontend Mastery
+- [Refactoring.Guru](https://refactoring.guru/) - Design Patterns
 
 </div>
 
 ---
 
-### ANALYTICS
+## 📊 GITHUB ANALYTICS & STATISTICS
 
 <div align="center">
+
+### 📈 Performance Dashboard
+
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ksheerasshanubhoganahalli-afk&show_icons=true&hide_border=true&title_color=06B6D4&text_color=c9d1d9&icon_color=06B6D4&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ksheerasshanubhoganahalli-afk&show_icons=true&hide_border=true&title_color=06B6D4&text_color=c9d1d9&icon_color=06B6D4&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheerasshanubhoganahalli-afk&layout=compact&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ksheerasshanubhoganahalli-afk&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabel=06B6D4" alt="GitHub Streak Stats" />
-</div>
+### 🔥 Contribution Streak
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ksheerasshanubhoganahalli-afk&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=06B6D4" alt="GitHub Streak Stats" width="100%" />
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ksheerasshanubhoganahalli-afk&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=ksheerasshanubhoganahalli-afk&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" width="100%" />
+
 </div>
 
 ---
 
-### 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION VISUALIZATION
 
 <div align="center">
+
+### GitHub Activity Snake Game
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksheerasshanubhoganahalli-afk/ksheerasshanubhoganahalli-afk/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksheerasshanubhoganahalli-afk/ksheerasshanubhoganahalli-afk/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ksheerasshanubhoganahalli-afk/ksheerasshanubhoganahalli-afk/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+</div>
+
+---
+
+## 💡 DAILY TECH WISDOM
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote of the Day" width="100%" />
+
+</div>
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+
+I'm always open to collaboration, feedback, and exciting opportunities! Whether you want to discuss web development, database design, or any tech topic—feel free to reach out.
+
+### 📬 Let's Connect!
+
+[![Hire Me](https://img.shields.io/badge/Open_to_Work-Available_for_hire-06B6D4?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:ksheerasshanubhoganahalli@gmail.com)
+[![Let's Chat](https://img.shields.io/badge/Let's_Chat-Send%20Message-0891B2?style=for-the-badge&logo=telegram&logoColor=white)](mailto:ksheerasshanubhoganahalli@gmail.com)
+
+</div>
+
+---
+
+## 🌟 QUICK FACTS
+
+<div align="center">
+
+```
+✨ BCA Graduate with 8.79 SGPA
+⚡ Full-Stack Developer | PHP & JavaScript Enthusiast
+🎯 Passionate about Clean Code & Database Optimization
+📚 Continuous Learner & Open Source Contributor
+🚀 Actively Seeking: Entry-Level Full-Stack Development Roles
+💪 Strong Foundation in Web Development & Problem-Solving
+🌍 Based in: Hosdurga, Chitradurga, Karnataka, India
+📞 Available for: Remote & On-Site Opportunities
+```
+
 </div>
 
 ---
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
-
-<br><br>
-
-[![Hire Me](https://img.shields.io/badge/Open_to_Work-Available_for_hire-06B6D4?style=for-the-badge)](mailto:ksheerasshanubhoganahalli@gmail.com)
-
-<sub>Built with precision. Maintained with discipline. 🚀</sub>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0891b2,100:0f172a&height=100&section=footer" width="100%" />
+
+### 🙏 Thank You for Visiting My Profile!
+
+**Built with** `precision` • **Maintained with** `discipline` • **Crafted with** `passion` 🚀
+
+**Last Updated:** May 2026 | **Profile Status:** Active & Growing
+
+---
+
+*Feel free to connect with me for collaborations, opportunities, or just to chat about web development!*
+
+</div>
