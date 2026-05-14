@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:6366f1&height=200&section=header&text=Ksheera%20S%20Shanubhogana%20Halli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=php+artisan+serve+--host%3D127.0.0.1;Full-Stack+Web+Developer;Database+Enthusiast;Clean+Code+Advocate;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+
 </div>
 
 ---
