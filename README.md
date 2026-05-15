@@ -1,9 +1,8 @@
-```markdown
 <div align="center">
 
 # ⚡ KSHEERA.DEV
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Full+Stack+Web+Enthusiast;Python+%7C+JavaScript+%7C+MongoDB;Building+Creative+and+Useful+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Full+Stack+Web+Enthusiast;Python+and+JavaScript+Specialist" />
 
 <br/>
 
@@ -47,9 +46,10 @@ Status    : Ready to Build 🚀
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | https://linkedin.com/in/ksheera-s-shanubhoganahalli |
-| 📧 Email | ksheerasshanubhoganahalli@gmail.com |
+| 💼 LinkedIn | [Profile](https://linkedin.com/in/ksheera-s-shanubhoganahalli) |
+| 📧 Email | [ksheerasshanubhoganahalli@gmail.com](mailto:ksheerasshanubhoganahalli@gmail.com) |
 | 📱 Phone | +91-7259297419 |
+| 🐙 GitHub | [GitHub Profile](https://github.com/ksheerasshanubhoganahalli-afk) |
 
 ---
 
@@ -177,6 +177,10 @@ Backend   → PHP
 Database  → MongoDB
 ```
 
+### 📂 Resources
+- [View Repository](https://github.com/ksheerasshanubhoganahalli-afk) (Update with actual repo link)
+- [Project Documentation](https://github.com/ksheerasshanubhoganahalli-afk) (Add if available)
+
 </details>
 
 ---
@@ -204,6 +208,10 @@ B --> C[Admin Dashboard]
 C --> D[Resolution Update]
 D --> E[User Notification]
 ```
+
+### 📂 Resources
+- [View Repository](https://github.com/ksheerasshanubhoganahalli-afk) (Update with actual repo link)
+- [Live Demo](https://example.com) (Add if available)
 
 </details>
 
@@ -247,7 +255,7 @@ Teamwork      █████████████████░░░░░
 
 # 🧭 Developer Philosophy
 
-> “Technology should not only solve problems — it should simplify lives, improve experiences, and create meaningful impact.”
+> "Technology should not only solve problems — it should simplify lives, improve experiences, and create meaningful impact."
 
 ---
 
@@ -267,11 +275,24 @@ Setting up future-success (1.0) ...
 
 ---
 
+# 📚 Useful Resources
+
+- [Python Documentation](https://docs.python.org/)
+- [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+- [MongoDB University](https://university.mongodb.com/)
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Guides](https://guides.github.com/)
+
+---
+
 <div align="center">
 
 # 🚀 OPEN TO INTERNSHIPS & COLLABORATIONS
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ksheera-s-shanubhoganahalli)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ksheerasshanubhoganahalli-afk)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ksheerasshanubhoganahalli@gmail.com)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=120&section=footer"/>
 
 </div>
-```
