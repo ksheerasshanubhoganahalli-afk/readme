@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ KSHEERA.DEV
+# ⚡ KSHEERA.S.SHANUBHOGANAHALLi
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Full+Stack+Web+Enthusiast;Python+and+JavaScript+Specialist" />
 
